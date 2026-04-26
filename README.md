@@ -37,7 +37,7 @@ A feature-rich, animated React application offering a suite of time-management a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/areebailyas4321-lab/Online_clock
+   git clone https://github.com/Ishant932/Online_Clock
    ```
 
 2. **Install dependencies**
